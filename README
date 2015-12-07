@@ -1,0 +1,12 @@
+Simple display power management for Windows
+===========================================
+
+Usage:
+
+from win32power import *
+
+displayOff() turns the display off
+
+displayOn()  turns the display on
+
+This code is in the public domain
